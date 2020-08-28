@@ -1,0 +1,50 @@
+{
+  "1": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "Facundo1@dada.com",
+    "password": "addada"
+  },
+  "2": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "Facundo4@dada.com",
+    "password": "addada"
+  },
+  "3": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "Facundo2@dada.com",
+    "password": "addada"
+  },
+  "4": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "Facundo3@dada.com",
+    "password": "addada"
+  },
+  "5": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "Facundo22@dada.com",
+    "password": "addada"
+  },
+  "6": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "prueba@dada.com",
+    "password": "dada"
+  },
+  "7": {
+    "firstName": "Facundo22",
+    "lastName": "Facundo22",
+    "email": "prueba11@dada.com",
+    "password": "dada"
+  },
+  "8": {
+    "firstName": "Juan",
+    "lastName": "Perez",
+    "email": "Juan@dada.com",
+    "password": "dada"
+  }
+}
